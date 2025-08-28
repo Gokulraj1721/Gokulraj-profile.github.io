@@ -51,7 +51,7 @@
 </head>
 <body>
   <header>
-    <h1>Hi, I'm [GOKUL RAJ R]</h1>
+    <h1>Hi, I'm  GOKUL RAJ R </h1>
     <p>Welcome to my GitHub Profile Website 🚀</p>
   </header>
 
@@ -78,7 +78,7 @@
   </section>
 
   <footer>
-    <p>© 2025 [GOKUL RAJ R] | Made with ❤️ and GitHub Pages</p>
+    <p>© 2025 GOKUL RAJ R | Made with ❤️ and GitHub Pages</p>
   </footer>
 </body>
 </html>
